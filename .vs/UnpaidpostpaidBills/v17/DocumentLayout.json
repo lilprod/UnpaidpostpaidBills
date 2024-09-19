@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|c:\\users\\productionatm06\\source\\repos\\unpaidpostpaidbills\\unpaidpostpaidbills\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|solutionrelative:unpaidpostpaidbills\\controllers\\billscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|c:\\users\\productionatm06\\source\\repos\\unpaidpostpaidbills\\unpaidpostpaidbills\\facturationencaissement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|solutionrelative:unpaidpostpaidbills\\facturationencaissement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|c:\\users\\productionatm06\\source\\repos\\unpaidpostpaidbills\\unpaidpostpaidbills\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|solutionrelative:unpaidpostpaidbills\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|c:\\users\\productionatm06\\source\\repos\\unpaidpostpaidbills\\unpaidpostpaidbills\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|solutionrelative:unpaidpostpaidbills\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|c:\\users\\productionatm06\\source\\repos\\unpaidpostpaidbills\\unpaidpostpaidbills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|solutionrelative:unpaidpostpaidbills\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|c:\\users\\productionatm06\\source\\repos\\unpaidpostpaidbills\\unpaidpostpaidbills\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|solutionrelative:unpaidpostpaidbills\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|c:\\users\\productionatm06\\source\\repos\\unpaidpostpaidbills\\unpaidpostpaidbills\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C46C5BD2-49CD-43B5-909B-2BE72DD74982}|UnpaidpostpaidBills\\UnpaidpostpaidBills.csproj|solutionrelative:unpaidpostpaidbills\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UnpaidpostpaidBills\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UnpaidpostpaidBills\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-26T18:32:27.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacturationEncaissement.cs",
+              "DocumentMoniker": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\FacturationEncaissement.cs",
+              "RelativeDocumentMoniker": "UnpaidpostpaidBills\\FacturationEncaissement.cs",
+              "ToolTip": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\FacturationEncaissement.cs",
+              "RelativeToolTip": "UnpaidpostpaidBills\\FacturationEncaissement.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T11:16:10.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\appsettings.json",
+              "RelativeDocumentMoniker": "UnpaidpostpaidBills\\appsettings.json",
+              "ToolTip": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\appsettings.json",
+              "RelativeToolTip": "UnpaidpostpaidBills\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T09:50:55.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BillsController.cs",
+              "DocumentMoniker": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Controllers\\BillsController.cs",
+              "RelativeDocumentMoniker": "UnpaidpostpaidBills\\Controllers\\BillsController.cs",
+              "ToolTip": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Controllers\\BillsController.cs",
+              "RelativeToolTip": "UnpaidpostpaidBills\\Controllers\\BillsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwC8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T09:51:56.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Startup.cs",
+              "RelativeDocumentMoniker": "UnpaidpostpaidBills\\Startup.cs",
+              "ToolTip": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Startup.cs",
+              "RelativeToolTip": "UnpaidpostpaidBills\\Startup.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAowBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:17:32.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Program.cs",
+              "RelativeDocumentMoniker": "UnpaidpostpaidBills\\Program.cs",
+              "ToolTip": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\Program.cs",
+              "RelativeToolTip": "UnpaidpostpaidBills\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:06:54.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "UnpaidpostpaidBills\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\productionatm06\\source\\repos\\UnpaidpostpaidBills\\UnpaidpostpaidBills\\appsettings.Development.json",
+              "RelativeToolTip": "UnpaidpostpaidBills\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T09:50:52.094Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
